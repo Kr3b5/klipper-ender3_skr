@@ -46,6 +46,7 @@
 
 :white_check_mark: As soon as the boot process is finished, Mainsail should be available at http://mainsailos.local or http://mainsailos. Replace `mainsailos` with the hostname you may have set when you flashed the image.
 
+<br />
 
 ### Flash Ender 3
 
@@ -97,6 +98,8 @@ make
 8. Wait 1 min and power off the printer, remove the SD card and connect the raspberry pi with USB 
 
 :white_check_mark: if it was successful the file ``FIRMWARE.CUR`` should be on the SD card 
+
+<br />
 
 ### Configurate Klipper (with MailsailOS GUI)
 
