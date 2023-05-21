@@ -10,13 +10,16 @@
 
 ## :wrench: Hardware & Software
 
-* Ender 3 - Pro (2020)
+* **Ender 3 - Pro (2020)**
   * Board: BIGTREETECH SKR Mini E3 V3.0 
   * Hotend: Creality Spider Hotend 
   * Autoleveling: BLTouch 
 <br />
+
 * Raspberry Pi 3 - Model B
-    * [MainsailOS (Klipper)](https://github.com/mainsail-crew/mainsail) 
+<br />
+
+* [MainsailOS (Klipper)](https://github.com/mainsail-crew/mainsail) 
 
 
 
