@@ -107,6 +107,7 @@ For the configuration of Klipper the ``printer.cfg`` must be created in the ``co
 
 * My actual config file: [/configs/printer.cfg](./configs/printer.cfg) (:construction: in progress!)
 <br />
+
 * [Example configs from Klipper3D](https://github.com/Klipper3d/klipper/tree/master/config) 
   
 :information_source: Klipper docu: https://www.klipper3d.org/Config_Reference.html
