@@ -110,6 +110,8 @@ make
 
 ### Configurate Klipper (with MailsailOS GUI)
 
+:information_source: Klipper docu: https://www.klipper3d.org/Config_Reference.html
+
 For the configuration of Klipper the ``printer.cfg`` must be created in the ``config`` folder in the menu section ``MACHINE``
 
 * My actual config file: [/configs/printer.cfg](./configs/printer.cfg) (:construction: in progress!)
@@ -117,4 +119,4 @@ For the configuration of Klipper the ``printer.cfg`` must be created in the ``co
 
 * [Example configs from Klipper3D](https://github.com/Klipper3d/klipper/tree/master/config) 
   
-:information_source: Klipper docu: https://www.klipper3d.org/Config_Reference.html
+
