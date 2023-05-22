@@ -11,7 +11,8 @@
 
 * **Ender 3 - Pro (2020)**
   * Board: BIGTREETECH SKR Mini E3 V3.0
-  * Hotend: Creality Spider Hotend 
+  * Hotend: Creality Spider Hotend
+    * Cooling Duct for Stock Fan: [Printables - Spider cooling duct](https://www.printables.com/de/model/487008-ender-3-spider-hotend-cooling-duct)
   * Autoleveling: BLTouch *(:construction: in progress!)*
 <br />
 
