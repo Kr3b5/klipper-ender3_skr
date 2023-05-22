@@ -6,14 +6,13 @@
   </p>
   <br />
 
----
 
 ## :wrench: Hardware & Software
 
 * **Ender 3 - Pro (2020)**
-  * Board: BIGTREETECH SKR Mini E3 V3.0 
+  * Board: BIGTREETECH SKR Mini E3 V3.0
   * Hotend: Creality Spider Hotend 
-  * Autoleveling: BLTouch *(:construction: in progress not in cfg yet)*
+  * Autoleveling: BLTouch *(:construction: in progress!)*
 <br />
 
 * Raspberry Pi 3 - Model B
@@ -25,8 +24,15 @@
 
 ## :hammer: Hardware Setup 
 
+#### Docu
+
+* [SKR Mini V3.0 Pins](./docu/SKR_MINI_V3_PINS.pdf)  
+
+<br />
+
 :construction: Coming soon
 
+<br />
 
 ## :computer: Software Setup 
 
@@ -111,4 +117,3 @@ For the configuration of Klipper the ``printer.cfg`` must be created in the ``co
 * [Example configs from Klipper3D](https://github.com/Klipper3d/klipper/tree/master/config) 
   
 :information_source: Klipper docu: https://www.klipper3d.org/Config_Reference.html
-
